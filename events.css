@@ -1,0 +1,33 @@
+body {
+	background-color: pink;
+}
+
+button {
+	display: block;
+	margin-top: 5px;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.hulkify {
+	font-weight: bold;
+}
+
+.capture-it {
+	border: solid 2px ;
+}
+
+.rounded {
+	border: solid 2px ;
+	border-radius:25px;
+}
+
+article section:first-of-type  {
+	font-weight: bold;
+}
+
+article section:last-of-type {
+	font-style: italic; 
+}
